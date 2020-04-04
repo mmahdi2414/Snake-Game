@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1562468089 source:c:\users\sama laptop\desktop\snake\snake\snake.c
+	"sl.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1478942520 c:\users\sama laptop\desktop\snake\snake\include\sl.h
+
